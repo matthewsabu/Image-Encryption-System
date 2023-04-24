@@ -1,4 +1,4 @@
-# Image-Encryption-System
+# Information-Encryption-System
 
 Unzip the Image Encryption zip file.
 Add the folder to the MATLAB path for project launch.
